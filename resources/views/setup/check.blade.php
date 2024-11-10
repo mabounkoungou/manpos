@@ -5,7 +5,7 @@ $laravelVersion = '8.0';
 $reqList = array(
    
     '8.0' => array(
-        'php' => '7.3.0',
+        'php' => '8.3.0',
         'openssl' => true,
         'fileinfo' => true,
         'pdo' => true,
